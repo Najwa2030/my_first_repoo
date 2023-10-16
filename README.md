@@ -2,3 +2,5 @@
  First traininng
 
 Najwa Anwar
+
+Data Analysit
